@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Misux
 - 👀 I’m interested in Web developments
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m a Salesforce Architect
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/francesco-misuraca/)
 
 <!---
